@@ -1,3 +1,12 @@
-.container {
-    background-color: #141414;
+.main {
+    color: #fff;
+    background: rgba(20, 20, 20, 255);
 }
+
+@media (max-width: 520px) {
+    .image {
+        width: 200px;
+        overflow: hidden;
+    }
+}
+
