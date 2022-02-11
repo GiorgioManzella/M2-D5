@@ -1,0 +1,27 @@
+hr {
+  border-color: rgb(209, 206, 206);
+  border-width: 2px;
+}
+#cancelButton {
+  background-color: rgb(206, 202, 202);
+  color: rgb(197, 196, 196);
+  width: 200px;
+  margin-left: 7px;
+  border-color: rgb(204, 203, 203);
+  border-radius: 0;
+}
+p {
+  margin: 10px;
+}
+
+.grey {
+  color: grey;
+}
+
+.linkSettings {
+  margin-right: -45px;
+}
+
+.break2 {
+  width: 69%;
+}
