@@ -32,7 +32,7 @@ window.onload= () => {
 
             box1.innerHTML += `
             
-            <div class="col-4 col-md-3 col-lg-2 px-1 mb-2 mb-md-2 image-container">
+            <div class="col-4 col-md-3 col-lg-2 px-1 mb-2 mb-md-2 image-container hovrable">
             <a href="/NetflixADD.html?id=${element._id}">
             <img src="${element.imageUrl}" alt="image movie" class="img-fluid image mb-2">
             </a>
@@ -73,7 +73,7 @@ window.onload= () => {
 
             box2.innerHTML += `
             
-            <div class="col-4 col-md-3 col-lg-2 px-1 mb-2 mb-md-2 image-container">
+            <div class="col-4 col-md-3 col-lg-2 px-1 mb-2 mb-md-2 image-container hovrable">
             <a href="/NetflixADD.html?id=${element._id}">
             <img src="${element.imageUrl}" alt="image movie" class="img-fluid image mb-2">
             </a>
@@ -115,7 +115,7 @@ window.onload= () => {
 
             box3.innerHTML += `
             
-            <div class="col-4 col-md-3 col-lg-2 px-1 mb-2 mb-md-2 image-container">
+            <div class="col-4 col-md-3 col-lg-2 px-1 mb-2 mb-md-2 image-container hovrable">
             <a href="/NetflixADD.html?id=${element._id}">
             <img src="${element.imageUrl}" alt="image movie" class="img-fluid image mb-2">
             </a>
@@ -157,7 +157,7 @@ window.onload= () => {
 
             box4.innerHTML += `
             
-            <div class="col-4 col-md-3 col-lg-2 px-1 mb-2 mb-md-2 image-container">
+            <div class="col-4 col-md-3 col-lg-2 px-1 mb-2 mb-md-2 image-container hovrable">
             <a href="/NetflixADD.html?id=${element._id}">
             <img src="${element.imageUrl}" alt="image movie" class="img-fluid image mb-2">
             </a>

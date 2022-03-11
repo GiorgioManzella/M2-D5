@@ -57,8 +57,8 @@ fetch("https://striveschool-api.herokuapp.com/api/movies/" + urlSearchId,{
         .then((data) => console.log(data))
 
 }
-
 const urlSearchId = (new URLSearchParams(window.location.search)).get("id")
+
 
 
 const handleDelete = function(){
